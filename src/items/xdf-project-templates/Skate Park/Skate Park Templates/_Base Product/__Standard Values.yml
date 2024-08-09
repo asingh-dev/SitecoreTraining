@@ -1,0 +1,57 @@
+﻿---
+ID: "3865bbca-b34b-467c-8122-d7f43673850b"
+Parent: "58fd0646-68ac-4a50-9d7e-edb8edb47749"
+Template: "58fd0646-68ac-4a50-9d7e-edb8edb47749"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/_Base Product/__Standard Values
+SharedFields:
+- ID: "041ff3e5-068d-4051-ad94-765c0182c34e"
+  Hint: SKU
+  Value: $id
+Languages:
+- Language: en
+  Fields:
+  - ID: "a115f1f4-5095-40aa-b452-2847891394b7"
+    Hint: Price
+    Value: $100
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240808T180846Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9eb5bbd2-f284-4322-9de4-118036dac31a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "d2226b6a-31cf-412b-bb2d-380c7166b606"
+      Hint: Highlights
+      Value: |
+        <div class="noOutline" data-ba-index="3" data-ba="lessonEdit.block" data-block-id="cll45d7hd005r3b75x5yxj3k9" style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+        <div style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+        <div class="block-text block-text--twocol bg--legacy-background block-wrapper bg bg--range-light bg--type-color" style="color: var(--color-text); margin: 0px; padding: 0rem 0px; border: 0px; line-height: inherit;">
+        <div class="block-text__container" data-ba="blocks.blockText" style="margin: 0px auto; padding: 0px 3rem; border: 0px; line-height: inherit;">
+        <div class="block-text__row" style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+        <div class="block-text__col brand--body brand--linkColor" style="margin: 0px; padding: 0px 0px 3rem; border: 0px; line-height: inherit;">
+        <div class="fr-view" style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+        <p style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; line-height: 1.94118;">Whether you&rsquo;re a beginner or a pro, this will work well for you.</p>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T180926Z

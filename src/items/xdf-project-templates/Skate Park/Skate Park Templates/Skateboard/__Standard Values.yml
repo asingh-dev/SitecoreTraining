@@ -1,0 +1,40 @@
+﻿---
+ID: "60273dce-d551-4bc4-a850-40c5110c5a77"
+Parent: "21407d71-3063-4d0e-b88e-288267998467"
+Template: "21407d71-3063-4d0e-b88e-288267998467"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/Skateboard/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240808T180302Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0eaff48a-3c86-4817-a266-42bd6d2fe37d"
+    - ID: "a9847e30-d1ab-4bea-a421-6038ec85e111"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The $name is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the $name is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your $name today!
+    - ID: "b8065415-d12f-453d-9337-e194c817fc3e"
+      Hint: Material
+      Value: Bamboo
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T181511Z

@@ -1,0 +1,34 @@
+﻿---
+ID: "ef28ae00-213f-4a8a-ac81-c6ac8a2c8db6"
+Parent: "d775bdc2-8bb3-476e-8b54-a801f5594016"
+Template: "844428f5-2fd9-4fd6-8f2c-395048b35f87"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{955BD804-D6A0-49C8-AD7B-4DB64C7AC204}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240808T182412Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Inventory
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d62fa53-26ef-4fd4-9d4b-c9f95415da84"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "c1937599-029a-495a-afd2-cbe7aff52c63"
+      Hint: Title
+      Value: Inventory
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T182412Z

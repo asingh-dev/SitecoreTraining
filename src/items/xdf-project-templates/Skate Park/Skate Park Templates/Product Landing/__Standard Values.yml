@@ -1,0 +1,27 @@
+﻿---
+ID: "aa137d97-25ac-4d83-9732-f81ab62e4d0f"
+Parent: "844428f5-2fd9-4fd6-8f2c-395048b35f87"
+Template: "844428f5-2fd9-4fd6-8f2c-395048b35f87"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/Product Landing/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{21407D71-3063-4D0E-B88E-288267998467}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240808T181752Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "428cce3f-3a25-4979-b270-9b87651f2bf4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T181859Z

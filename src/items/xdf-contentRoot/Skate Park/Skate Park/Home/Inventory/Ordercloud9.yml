@@ -1,0 +1,43 @@
+﻿---
+ID: "0691375e-0ea8-43bb-83f3-fea51a073c11"
+Parent: "ef28ae00-213f-4a8a-ac81-c6ac8a2c8db6"
+Template: "21407d71-3063-4d0e-b88e-288267998467"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory/Ordercloud9
+SharedFields:
+- ID: "041ff3e5-068d-4051-ad94-765c0182c34e"
+  Hint: SKU
+  Value: "{0691375E-0EA8-43BB-83F3-FEA51A073C11}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DE065EEA-85AD-49F5-8B7E-1B3173ACC198}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240808T182505Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ordercloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc8cf4c3-e739-40d5-ac0e-e8706b3b336b"
+    - ID: "a9847e30-d1ab-4bea-a421-6038ec85e111"
+      Hint: Content
+      Value: |
+        Looking for a skateboard that can keep up with your shredding skills? The Ordercloud9 is here to take your skating to the next level.&nbsp; Whether you're hitting the skatepark or cruising the streets, the Ordercloud9 is the perfect board for you.<br />
+        <br />
+        Ready to take your skating to the next level? Order your Ordercloud9 today!
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "c1937599-029a-495a-afd2-cbe7aff52c63"
+      Hint: Title
+      Value: Ordercloud9
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T182505Z
