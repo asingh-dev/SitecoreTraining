@@ -1,0 +1,48 @@
+﻿---
+ID: "a41d9456-3d67-486b-9137-b5bb71fc93e1"
+Parent: "379f0219-e5bc-4b7b-a4aa-13314f2e98a7"
+Template: "4d12c2d6-ca7a-46a5-92a0-8731d2a35796"
+Path: /sitecore/content/TAC/Events/Data/Heroes/Sample Hero
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c3d10ae-a352-40b4-8904-03dfa6d79677"
+      Hint: Link
+      Value: |
+        <link linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240809T201215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "5779b3f7-048b-4ca5-9c12-a19cac92b6fe"
+      Hint: Title
+      Value: Exciting Mount Everest Event
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "61a266d6-9115-4be5-af7a-810674f7ca7d"
+      Hint: Summary
+      Value: "Join our Exciting Climbing Events!"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9aa196f2-4c07-49f3-ad00-3c6d1b8f771a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "d754cfc1-7657-45c1-9d4b-63ac449fc20b"
+      Hint: Body
+      Value: Enjoy Mount Everest Event with the Adventure Company.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T201331Z
+    - ID: "e6ffee63-22e2-4062-941a-6e68d62bd2a5"
+      Hint: Image
+      Value: |
+        <image mediaid="{3AE71ED9-D1D3-4488-B6FB-93B6D52B5B27}" />

@@ -1,0 +1,41 @@
+﻿---
+ID: "aefd1e5b-20f7-4543-ab4f-23babda0fb1c"
+Parent: "e3d31f8b-07bd-422b-911e-132bea3f4f9a"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/TAC/Events/Presentation/Available Renderings/TAC
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {DD4E9F53-8D80-448F-923B-ADFE61030BC4}
+    {BE01D6F5-1FF8-4868-A6D0-FD1B248AC1CB}
+    {A73909D0-0D21-485D-9E91-62F77F43185B}
+    {7AF87C70-5D45-45A7-8A5A-ED4C799B98AA}
+    {F70EC34E-0D76-468A-96D9-548590FCBC1E}
+    {DF90EB25-98ED-426F-A396-C81F08A6FD51}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240809T183400Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30a927e0-6c95-46e1-9a7f-01cfeaa7987f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amandeep.singh@nypa.gov
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T202508Z
